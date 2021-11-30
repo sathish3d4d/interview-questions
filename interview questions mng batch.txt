@@ -1,0 +1,63 @@
+Topics
+=====
+tell me about your self
+
+i have toatally 3+ yrs of exp on azure devops as well docker and terraform
+comming to my roles and responsibilities 
+*****************************
+**************************
+*****************************
+
+-> what is azure devops
+
+1.vm linux
+=========
+-> what vm
+-> what is image
+-> port no of linux machine
+-> type of vm
+-> how to create vm in azure portal and what are steps
+-> how to connect vm
+-> what are the bsics steps to create vm
+2.vm windows
+==========
+-> what is default port of windows
+-> what is image
+-> type of vs
+-> how to create vm in azure portal and what are steps
+-> how to connect vm
+-> what are the bsics steps to create vm
+3.resource group
+=============
+->what is resource group and what is the use of resourcegroup
+-> can i attache one resource to two vm
+4.network security groups
+==================
+-> what is network security groups
+-> what isthe use of nsg
+->what is inbount/outbound rules
+-> how to create nsg and how to add
+5.storages (imp)
+==============
+-> what is storage ac
+-> types of storages
+->what is the diff b/w
+blob$file$queue& Table stoarges
+-> what is container and how to create
+->how to upload object into blob
+-> how to get the url of object
+-> how to give public acces to blob level
+-> what is Hot and cool and archive tiers
+-> can create multiple storge account with same name 
+-> how to delete blobs and storage accounts
+-> how to hostic static website
+-> what is the diiff b/w blob and container 
+6.azure active directory.
+===============
+-> what is az ad and use cases
+-> what is the diff b/w users and groups
+-> how to create users and groups
+-> how to add the users to group
+-> what is roles and how to assign
+-> how log in into user account
+-> what is tenent 
